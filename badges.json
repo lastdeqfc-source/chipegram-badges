@@ -1,0 +1,10 @@
+{
+  "types": {
+    "creator":   { "title": "Создатель",   "emoji": "👑" },
+    "developer": { "title": "Разработчик", "emoji": "💻" },
+    "sponsor":   { "title": "Спонсор",     "emoji": "💎" }
+  },
+  "users": {
+    "8920031788": "creator"
+  }
+}
